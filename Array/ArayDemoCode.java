@@ -42,6 +42,8 @@ public class ArayDemoCode {
             System.out.println(val);
         }
 
-        // Limitation of enhanced for Loop is that it is only foeward going
+        // Limitation of enhanced for Loop is that it is only foeward going and it is read only so the data
+        // can't be changed by using this loop
+
     }
 }
